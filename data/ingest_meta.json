@@ -1,0 +1,10 @@
+{
+  "dataset": "civil_comments",
+  "toxic_threshold": 0.5,
+  "test_size": 0.2,
+  "random_state": 42,
+  "n_train": 1443899,
+  "n_test": 360975,
+  "pos_rate_train": 0.07996888979076791,
+  "pos_rate_test": 0.07996952697555232
+}
